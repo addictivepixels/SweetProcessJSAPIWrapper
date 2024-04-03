@@ -1,4 +1,4 @@
-# SweetProcess API Wrapper
+# SweetProcess JavaScript API Wrapper
 
 This JavaScript module provides a convenient wrapper around the SweetProcess API, allowing you to interact with various endpoints and perform operations such as retrieving procedures, task instances, users, and managing invitations and team memberships.
 
